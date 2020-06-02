@@ -9,7 +9,7 @@ I have included the data I pulled down as CSV files.  And have included Excel sp
 raw data (GamesData.xls) and with the Genre counts broken down by platform (GenreData.xls).  
 
 The Tableau visualization using this data is at:
- https://public.tableau.com/profile/brian.r3426#!/vizhome/VideoGameConsoleData/ConsoleTitles
+ https://public.tableau.com/profile/btriordan#!/vizhome/VideoGameConsoleData/ConsoleTitles
 
 
 ## Usage
