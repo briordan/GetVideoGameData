@@ -11,6 +11,7 @@ raw data (GamesData.xls) and with the Genre counts broken down by platform (Genr
 The Tableau visualization using this data is at:
  https://public.tableau.com/profile/btriordan#!/vizhome/VideoGameConsoleData/ConsoleTitles
 
+![Image of Visualization](https://github.com/briordan/GetVideoGameData/blob/master/ConsoleProject.jpg)
 
 ## Usage
 
